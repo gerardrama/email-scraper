@@ -1,4 +1,4 @@
-# README.md for GitHub - Email Scraper Project
+# Email Scraper Project
 
 ## Introduction
 This repository contains a Python script designed to scrape emails from websites. The script navigates through the given websites and extracts email addresses, considering specified depth limits for the search. It's an effective tool for gathering email data for various purposes, including marketing, research, or data collection.
