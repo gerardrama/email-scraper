@@ -4,7 +4,6 @@ import multiprocessing
 import re
 import sys
 from concurrent.futures import ThreadPoolExecutor
-import validators
 
 
 import tldextract

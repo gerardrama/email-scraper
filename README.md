@@ -17,12 +17,11 @@ Before running the script, ensure you have the following dependencies installed:
 - Selenium WebDriver
 - BeautifulSoup4
 - tldextract
-- validators
 
 You can install these dependencies using pip:
 
 ```
-pip install selenium beautifulsoup4 tldextract validators
+pip install selenium beautifulsoup4 tldextract
 ```
 
 Additionally, make sure to have the Chrome WebDriver installed on your system.
